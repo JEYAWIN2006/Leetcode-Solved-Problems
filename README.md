@@ -15,4 +15,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0181-employees-earning-more-than-their-managers) |
+## String
+|  |
+| ------- |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 <!---LeetCode Topics End-->
