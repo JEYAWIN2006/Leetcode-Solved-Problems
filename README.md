@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0041-first-missing-positive) |
+| [0136-single-number](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0537-complex-number-multiplication](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0537-complex-number-multiplication) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
