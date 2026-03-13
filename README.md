@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1980-find-unique-binary-string](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1980-find-unique-binary-string) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0633-sum-of-square-numbers) |
 | [1227-airplane-seat-assignment-probability](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1227-airplane-seat-assignment-probability) |
 | [2651-calculate-delayed-arrival-time](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2651-calculate-delayed-arrival-time) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
 |  |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0162-find-peak-element) |
 | [0633-sum-of-square-numbers](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0633-sum-of-square-numbers) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Geometry
 |  |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0397-integer-replacement) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Memoization
 |  |
@@ -150,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 <!---LeetCode Topics End-->
