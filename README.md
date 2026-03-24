@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0223-rectangle-area) |
+| [0263-ugly-number](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0292-nim-game) |
 | [0537-complex-number-multiplication](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0537-complex-number-multiplication) |
 | [0633-sum-of-square-numbers](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0633-sum-of-square-numbers) |
