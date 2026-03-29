@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0148-sort-list](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0148-sort-list) |
 | [0283-move-zeroes](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0283-move-zeroes) |
 | [0633-sum-of-square-numbers](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -102,11 +103,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -200,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0912-sort-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
