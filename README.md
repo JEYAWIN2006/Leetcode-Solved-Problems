@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2592-maximize-greatness-of-an-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2592-maximize-greatness-of-an-array) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -103,12 +104,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0537-complex-number-multiplication](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0537-complex-number-multiplication) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0136-single-number) |
 | [0397-integer-replacement](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0397-integer-replacement) |
 | [1009-complement-of-base-10-integer](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1009-complement-of-base-10-integer) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
