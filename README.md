@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0223-rectangle-area](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0224-basic-calculator) |
 | [0263-ugly-number](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0263-ugly-number) |
