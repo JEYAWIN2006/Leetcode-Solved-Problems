@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0989-add-to-array-form-of-integer) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1980-find-unique-binary-string](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1980-find-unique-binary-string) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0283-move-zeroes) |
 | [0633-sum-of-square-numbers](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2592-maximize-greatness-of-an-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2592-maximize-greatness-of-an-array) |
 ## Binary Search
 |  |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0633-sum-of-square-numbers) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Geometry
