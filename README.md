@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0020-valid-parentheses) |
 | [0065-valid-number](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0065-valid-number) |
 | [0224-basic-calculator](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0224-basic-calculator) |
+| [0415-add-strings](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0434-number-of-segments-in-a-string) |
 | [0504-base-7](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0504-base-7) |
 | [0537-complex-number-multiplication](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0537-complex-number-multiplication) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0264-ugly-number-ii) |
 | [0292-nim-game](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0292-nim-game) |
 | [0400-nth-digit](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0400-nth-digit) |
+| [0415-add-strings](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0504-base-7) |
 | [0537-complex-number-multiplication](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0537-complex-number-multiplication) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0415-add-strings) |
 | [0537-complex-number-multiplication](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0537-complex-number-multiplication) |
 | [0657-robot-return-to-origin](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0657-robot-return-to-origin) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
