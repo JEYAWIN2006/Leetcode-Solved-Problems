@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0136-single-number) |
 | [0397-integer-replacement](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0397-integer-replacement) |
+| [0693-binary-number-with-alternating-bits](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0693-binary-number-with-alternating-bits) |
 | [1009-complement-of-base-10-integer](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1009-complement-of-base-10-integer) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
