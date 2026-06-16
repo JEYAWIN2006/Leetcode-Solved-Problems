@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0162-find-peak-element) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0048-rotate-image) |
 | [0172-factorial-trailing-zeroes](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0223-rectangle-area](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0224-basic-calculator) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0048-rotate-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Binary Indexed Tree
 |  |
