@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3612-process-string-with-special-operations-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3612-process-string-with-special-operations-i) |
 | [3894-traffic-signal-color](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3894-traffic-signal-color) |
 ## Math
 |  |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0537-complex-number-multiplication](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0537-complex-number-multiplication) |
 | [0657-robot-return-to-origin](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0657-robot-return-to-origin) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [3612-process-string-with-special-operations-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3612-process-string-with-special-operations-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3894-traffic-signal-color](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3894-traffic-signal-color) |
 ## Bit Manipulation
