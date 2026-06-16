@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0504-base-7) |
 | [0537-complex-number-multiplication](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0537-complex-number-multiplication) |
 | [0657-robot-return-to-origin](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0657-robot-return-to-origin) |
+| [0696-count-binary-substrings](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0709-to-lower-case) |
 | [1078-occurrences-after-bigram](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1078-occurrences-after-bigram) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0283-move-zeroes) |
 | [0633-sum-of-square-numbers](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0633-sum-of-square-numbers) |
+| [0696-count-binary-substrings](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0696-count-binary-substrings) |
 | [0977-squares-of-a-sorted-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2592-maximize-greatness-of-an-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2592-maximize-greatness-of-an-array) |
