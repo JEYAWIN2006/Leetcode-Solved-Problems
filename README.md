@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3719-longest-balanced-subarray-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3719-longest-balanced-subarray-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3719-longest-balanced-subarray-i) |
 ## Database
 |  |
 | ------- |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0912-sort-an-array) |
+| [3719-longest-balanced-subarray-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3719-longest-balanced-subarray-i) |
 ## Sorting
 |  |
 | ------- |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3719-longest-balanced-subarray-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3719-longest-balanced-subarray-i) |
 ## Union-Find
 |  |
 | ------- |
@@ -300,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1395-count-number-of-teams](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1395-count-number-of-teams) |
 | [1622-fancy-sequence](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1622-fancy-sequence) |
+| [3719-longest-balanced-subarray-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3719-longest-balanced-subarray-i) |
 ## Merge Sort
 |  |
 | ------- |
