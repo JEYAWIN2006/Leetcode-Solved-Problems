@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3614-process-string-with-special-operations-ii) |
 | [3894-traffic-signal-color](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3894-traffic-signal-color) |
 ## Math
 |  |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0657-robot-return-to-origin) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3612-process-string-with-special-operations-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3614-process-string-with-special-operations-ii) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3894-traffic-signal-color](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3894-traffic-signal-color) |
 ## Bit Manipulation
