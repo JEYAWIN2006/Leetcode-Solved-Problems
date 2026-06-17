@@ -1,7 +1,7 @@
 class Solution:
     def processStr(self, s: str, k: int) -> str:
         L=0
-        for c in k:
+        for c in s:
             if c=="*":
                 if L>0:
                     L-=1
