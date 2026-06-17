@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1980-find-unique-binary-string) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2215-find-the-difference-of-two-arrays) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3719-longest-balanced-subarray-i) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2833-furthest-point-from-origin](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3612-process-string-with-special-operations-i) |
 | [3894-traffic-signal-color](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3894-traffic-signal-color) |
