@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1980-find-unique-binary-string](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1980-find-unique-binary-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1980-find-unique-binary-string) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2833-furthest-point-from-origin](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2833-furthest-point-from-origin) |
