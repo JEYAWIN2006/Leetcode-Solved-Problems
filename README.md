@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-occurrences-after-bigram](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1078-occurrences-after-bigram) |
 | [1189-maximum-number-of-balloons](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1980-find-unique-binary-string) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-airplane-seat-assignment-probability](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1227-airplane-seat-assignment-probability) |
 | [1395-count-number-of-teams](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1395-count-number-of-teams) |
 | [1641-count-sorted-vowel-strings](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1641-count-sorted-vowel-strings) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0020-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0224-basic-calculator) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Prefix Sum
 |  |
 | ------- |
