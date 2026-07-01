@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0169-majority-element) |
 | [0228-summary-ranges](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0228-summary-ranges) |
+| [0275-h-index-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0347-top-k-frequent-elements) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0162-find-peak-element) |
+| [0275-h-index-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0275-h-index-ii) |
 | [0400-nth-digit](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0400-nth-digit) |
 | [0441-arranging-coins](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0633-sum-of-square-numbers) |
