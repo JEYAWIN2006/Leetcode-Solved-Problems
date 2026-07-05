@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1189-maximum-number-of-balloons](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1189-maximum-number-of-balloons) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1980-find-unique-binary-string](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1980-find-unique-binary-string) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1980-find-unique-binary-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0347-top-k-frequent-elements) |
 | [1189-maximum-number-of-balloons](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1189-maximum-number-of-balloons) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2833-furthest-point-from-origin](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2833-furthest-point-from-origin) |
 ## Dynamic Programming
