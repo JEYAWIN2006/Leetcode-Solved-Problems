@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0396-rotate-function](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0396-rotate-function) |
+| [0794-valid-tic-tac-toe-state](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0794-valid-tic-tac-toe-state) |
 | [0867-transpose-matrix](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0912-sort-an-array) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0289-game-of-life](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0289-game-of-life) |
+| [0794-valid-tic-tac-toe-state](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0794-valid-tic-tac-toe-state) |
 | [0867-transpose-matrix](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0867-transpose-matrix) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1314-matrix-block-sum](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1314-matrix-block-sum) |
