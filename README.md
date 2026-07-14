@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0224-basic-calculator) |
 | [0290-word-pattern](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0434-number-of-segments-in-a-string) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0633-sum-of-square-numbers](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0696-count-binary-substrings](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0696-count-binary-substrings) |
 | [0977-squares-of-a-sorted-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0977-squares-of-a-sorted-array) |
