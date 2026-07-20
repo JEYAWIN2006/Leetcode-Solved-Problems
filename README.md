@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2592-maximize-greatness-of-an-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2592-maximize-greatness-of-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2784-check-if-array-is-good](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2784-check-if-array-is-good) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3074-apple-redistribution-into-boxes) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2784-check-if-array-is-good](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2784-check-if-array-is-good) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2592-maximize-greatness-of-an-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2592-maximize-greatness-of-an-array) |
+| [2784-check-if-array-is-good](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2784-check-if-array-is-good) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3536-maximum-product-of-two-digits](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3536-maximum-product-of-two-digits) |
