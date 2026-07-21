@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3945-digit-frequency-score](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3945-digit-frequency-score) |
 ## Database
 |  |
 | ------- |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3783-mirror-distance-of-an-integer) |
 | [3894-traffic-signal-color](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3894-traffic-signal-color) |
+| [3945-digit-frequency-score](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
 |  |
 | ------- |
