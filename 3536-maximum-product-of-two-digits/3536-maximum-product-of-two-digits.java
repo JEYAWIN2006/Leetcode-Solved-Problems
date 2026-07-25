@@ -1,16 +1,10 @@
 class Solution {
     public int maxProduct(int n) {
-        int maxpro=0;
-        String digits=String.valueOf(n);
-        for(int i=0;i<digits.length();i++) {
-            for(int j=i+1;j<digits.length();j++) {
-                int d1=digits.charAt(i)-'0';
-                int d2=digits.charAt(j)-'0';
-                int pro=d1*d2;
-                maxpro=Math.max(maxpro,pro);
-            }
-        }
-        
-        return maxpro;
+        char[] digits = Integer.toString(n).toCharArray();
+        Arrays.sort(digits);
+        int l=digits.length;
+        int m1=digits[l-1]-'0';
+        int m2=digits[l-2]-'0';
+        return m1*m2;
     }
 }
