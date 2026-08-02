@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2549-count-distinct-numbers-on-board](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2549-count-distinct-numbers-on-board) |
 | [2651-calculate-delayed-arrival-time](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2651-calculate-delayed-arrival-time) |
 | [2652-sum-multiples](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2652-sum-multiples) |
+| [2806-account-balance-after-rounded-purchase](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2806-account-balance-after-rounded-purchase) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
