@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0204-count-primes) |
 | [0228-summary-ranges](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0228-summary-ranges) |
 | [0275-h-index-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0283-move-zeroes) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0048-rotate-image) |
 | [0089-gray-code](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0089-gray-code) |
 | [0172-factorial-trailing-zeroes](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0172-factorial-trailing-zeroes) |
+| [0204-count-primes](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0224-basic-calculator) |
 | [0263-ugly-number](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0263-ugly-number) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2427-number-of-common-factors) |
 | [3618-split-array-by-prime-indices](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3618-split-array-by-prime-indices) |
@@ -524,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0204-count-primes) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2427-number-of-common-factors](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2427-number-of-common-factors) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
