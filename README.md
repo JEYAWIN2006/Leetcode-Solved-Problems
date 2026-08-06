@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0264-ugly-number-ii) |
 | [0292-nim-game](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0319-bulb-switcher) |
+| [0357-count-numbers-with-unique-digits](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0357-count-numbers-with-unique-digits) |
 | [0396-rotate-function](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0396-rotate-function) |
 | [0400-nth-digit](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0400-nth-digit) |
 | [0412-fizz-buzz](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0412-fizz-buzz) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0053-maximum-subarray) |
 | [0264-ugly-number-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0264-ugly-number-ii) |
+| [0357-count-numbers-with-unique-digits](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0357-count-numbers-with-unique-digits) |
 | [0396-rotate-function](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0397-integer-replacement) |
 | [0486-predict-the-winner](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0486-predict-the-winner) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0047-permutations-ii) |
 | [0089-gray-code](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0089-gray-code) |
+| [0357-count-numbers-with-unique-digits](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0357-count-numbers-with-unique-digits) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1980-find-unique-binary-string) |
 ## Number Theory
