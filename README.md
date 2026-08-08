@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3612-process-string-with-special-operations-i) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2540-minimum-common-value) |
 | [2592-maximize-greatness-of-an-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2592-maximize-greatness-of-an-array) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3643-flip-square-submatrix-vertically](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3643-flip-square-submatrix-vertically) |
 ## Binary Search
 |  |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3388-count-beautiful-splits-in-an-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3388-count-beautiful-splits-in-an-array) |
 | [3620-network-recovery-pathways](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3620-network-recovery-pathways) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3857-minimum-cost-to-split-into-ones) |
@@ -432,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3689-maximum-total-subarray-value-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3689-maximum-total-subarray-value-i) |
