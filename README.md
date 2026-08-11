@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1189-maximum-number-of-balloons](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1980-find-unique-binary-string](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1980-find-unique-binary-string) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-occurrences-after-bigram](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1078-occurrences-after-bigram) |
 | [1189-maximum-number-of-balloons](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
