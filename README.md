@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0496-next-greater-element-i) |
+| [0869-reordered-power-of-2](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0869-reordered-power-of-2) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1189-maximum-number-of-balloons](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1189-maximum-number-of-balloons) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0537-complex-number-multiplication](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0537-complex-number-multiplication) |
 | [0633-sum-of-square-numbers](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0738-monotone-increasing-digits](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0738-monotone-increasing-digits) |
+| [0869-reordered-power-of-2](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0869-reordered-power-of-2) |
 | [0877-stone-game](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0877-stone-game) |
 | [0878-nth-magical-number](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0878-nth-magical-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0989-add-to-array-form-of-integer) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0869-reordered-power-of-2](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0869-reordered-power-of-2) |
 | [0912-sort-an-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0869-reordered-power-of-2](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0869-reordered-power-of-2) |
 | [1189-maximum-number-of-balloons](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
@@ -587,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0204-count-primes) |
+| [0869-reordered-power-of-2](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0869-reordered-power-of-2) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2427-number-of-common-factors](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2427-number-of-common-factors) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
