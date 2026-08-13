@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2540-minimum-common-value](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2540-minimum-common-value) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1980-find-unique-binary-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2833-furthest-point-from-origin](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2833-furthest-point-from-origin) |
@@ -546,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1395-count-number-of-teams](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1395-count-number-of-teams) |
 | [1622-fancy-sequence](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1622-fancy-sequence) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3719-longest-balanced-subarray-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3719-longest-balanced-subarray-i) |
 ## Merge Sort
 |  |
@@ -679,4 +682,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0678-valid-parenthesis-string) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
