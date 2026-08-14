@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0136-single-number) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0169-majority-element) |
 | [0264-ugly-number-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0264-ugly-number-ii) |
 | [0290-word-pattern](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0290-word-pattern) |
@@ -595,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0289-game-of-life](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0289-game-of-life) |
 | [0794-valid-tic-tac-toe-state](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0794-valid-tic-tac-toe-state) |
