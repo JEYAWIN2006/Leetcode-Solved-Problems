@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1980-find-unique-binary-string) |
+| [2029-stone-game-ix](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-fancy-sequence](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1622-fancy-sequence) |
 | [1641-count-sorted-vowel-strings](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1641-count-sorted-vowel-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2029-stone-game-ix) |
 | [2235-add-two-integers](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2235-add-two-integers) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2413-smallest-even-multiple](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2413-smallest-even-multiple) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2029-stone-game-ix) |
 ## Simulation
 |  |
 | ------- |
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-reordered-power-of-2](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0869-reordered-power-of-2) |
 | [1189-maximum-number-of-balloons](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2029-stone-game-ix](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2029-stone-game-ix) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2833-furthest-point-from-origin](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2833-furthest-point-from-origin) |
 ## Dynamic Programming
@@ -482,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0860-lemonade-change) |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1833-maximum-ice-cream-bars](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1833-maximum-ice-cream-bars) |
+| [2029-stone-game-ix](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2592-maximize-greatness-of-an-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2592-maximize-greatness-of-an-array) |
@@ -660,12 +665,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2029-stone-game-ix) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -682,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
