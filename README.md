@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1480-running-sum-of-1d-array) |
+| [1563-stone-game-v](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1563-stone-game-v) |
 | [1572-matrix-diagonal-sum](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1672-richest-customer-wealth](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1672-richest-customer-wealth) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1406-stone-game-iii) |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1510-stone-game-iv](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1563-stone-game-v) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1622-fancy-sequence](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1622-fancy-sequence) |
 | [1641-count-sorted-vowel-strings](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1641-count-sorted-vowel-strings) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2029-stone-game-ix) |
 ## Simulation
 |  |
@@ -437,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1395-count-number-of-teams](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1395-count-number-of-teams) |
 | [1406-stone-game-iii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1563-stone-game-v) |
 | [1641-count-sorted-vowel-strings](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1641-count-sorted-vowel-strings) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
