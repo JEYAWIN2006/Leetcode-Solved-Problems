@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1563-stone-game-v) |
 | [1572-matrix-diagonal-sum](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1672-richest-customer-wealth](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1386-cinema-seat-allocation](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1624-largest-substring-between-two-equal-characters) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1980-find-unique-binary-string](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1980-find-unique-binary-string) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1122-relative-sort-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1833-maximum-ice-cream-bars](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2592-maximize-greatness-of-an-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2592-maximize-greatness-of-an-array) |
