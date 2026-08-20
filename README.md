@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0856-score-of-parentheses) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1078-occurrences-after-bigram](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1078-occurrences-after-bigram) |
+| [1154-day-of-the-year](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1154-day-of-the-year) |
 | [1189-maximum-number-of-balloons](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1624-largest-substring-between-two-equal-characters) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0989-add-to-array-form-of-integer) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1140-stone-game-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1140-stone-game-ii) |
+| [1154-day-of-the-year](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1154-day-of-the-year) |
 | [1227-airplane-seat-assignment-probability](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1227-airplane-seat-assignment-probability) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1406-stone-game-iii) |
