@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0561-array-partition) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0794-valid-tic-tac-toe-state](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0794-valid-tic-tac-toe-state) |
 | [0860-lemonade-change](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0860-lemonade-change) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0397-integer-replacement) |
 | [0461-hamming-distance](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0461-hamming-distance) |
 | [0693-binary-number-with-alternating-bits](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0693-binary-number-with-alternating-bits) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1009-complement-of-base-10-integer](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1009-complement-of-base-10-integer) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1386-cinema-seat-allocation](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1386-cinema-seat-allocation) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0678-valid-parenthesis-string) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0877-stone-game](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1140-stone-game-ii) |
 | [1227-airplane-seat-assignment-probability](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1227-airplane-seat-assignment-probability) |
@@ -496,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0047-permutations-ii) |
 | [0089-gray-code](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0089-gray-code) |
 | [0357-count-numbers-with-unique-digits](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0357-count-numbers-with-unique-digits) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1980-find-unique-binary-string) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -538,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0397-integer-replacement](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0509-fibonacci-number) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -752,4 +757,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1122-relative-sort-array) |
+## Bitmask
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->
