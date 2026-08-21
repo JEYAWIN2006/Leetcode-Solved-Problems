@@ -1,9 +1,10 @@
 class Solution {
     public List<Integer> grayCode(int n) {
-        List<Integer> list = new ArrayList<>(1 << n);
-        for (int i=0;i<1<<n;i++) {
-            list.add(i^(i>>1));
+        List<Integer> ans=new ArrayList<>();
+        int t=1<<n;
+        for(int j=0;j<t;j++){
+            ans.add(j^(j>>1));
         }
-        return list;
+        return ans;
     }
 }
