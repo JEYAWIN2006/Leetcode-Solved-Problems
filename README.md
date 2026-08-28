@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0496-next-greater-element-i) |
+| [0528-random-pick-with-weight](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0528-random-pick-with-weight) |
 | [0561-array-partition](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0561-array-partition) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0486-predict-the-winner) |
 | [0504-base-7](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0509-fibonacci-number) |
+| [0528-random-pick-with-weight](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0528-random-pick-with-weight) |
 | [0537-complex-number-multiplication](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0537-complex-number-multiplication) |
 | [0633-sum-of-square-numbers](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0738-monotone-increasing-digits](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0738-monotone-increasing-digits) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0275-h-index-ii) |
 | [0400-nth-digit](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0400-nth-digit) |
 | [0441-arranging-coins](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0441-arranging-coins) |
+| [0528-random-pick-with-weight](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0528-random-pick-with-weight) |
 | [0633-sum-of-square-numbers](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0878-nth-magical-number](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0878-nth-magical-number) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -581,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0303-range-sum-query-immutable) |
+| [0528-random-pick-with-weight](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0528-random-pick-with-weight) |
 | [1140-stone-game-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1140-stone-game-ii) |
 | [1314-matrix-block-sum](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1314-matrix-block-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1480-running-sum-of-1d-array) |
@@ -787,4 +791,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Randomized
+|  |
+| ------- |
+| [0528-random-pick-with-weight](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0528-random-pick-with-weight) |
 <!---LeetCode Topics End-->
