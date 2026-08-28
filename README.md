@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0065-valid-number) |
 | [0072-edit-distance](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0072-edit-distance) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0048-rotate-image) |
 | [0089-gray-code](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0089-gray-code) |
 | [0172-factorial-trailing-zeroes](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0172-factorial-trailing-zeroes) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0043-multiply-strings) |
 | [0289-game-of-life](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0415-add-strings) |
