@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0053-maximum-subarray) |
+| [0059-spiral-matrix-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0075-sort-colors) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0043-multiply-strings) |
+| [0059-spiral-matrix-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0289-game-of-life](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0415-add-strings) |
@@ -678,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0048-rotate-image) |
+| [0059-spiral-matrix-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0289-game-of-life](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0289-game-of-life) |
