@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3388-count-beautiful-splits-in-an-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3388-count-beautiful-splits-in-an-array) |
 | [3452-sum-of-good-numbers](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3452-sum-of-good-numbers) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3618-split-array-by-prime-indices](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3618-split-array-by-prime-indices) |
 | [3620-network-recovery-pathways](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3620-network-recovery-pathways) |
 | [3643-flip-square-submatrix-vertically](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3643-flip-square-submatrix-vertically) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -697,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3643-flip-square-submatrix-vertically](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3643-flip-square-submatrix-vertically) |
 ## Binary Indexed Tree
 |  |
@@ -731,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Shortest Path
 |  |
 | ------- |
