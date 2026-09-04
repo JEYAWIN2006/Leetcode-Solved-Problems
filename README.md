@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3838-weighted-word-mapping](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3838-weighted-word-mapping) |
+| [3903-smallest-stable-index-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3903-smallest-stable-index-i) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
@@ -604,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3719-longest-balanced-subarray-i) |
+| [3903-smallest-stable-index-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3903-smallest-stable-index-i) |
 ## Union-Find
 |  |
 | ------- |
