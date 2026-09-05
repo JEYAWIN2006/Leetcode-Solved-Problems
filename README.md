@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
+| [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 | [3838-weighted-word-mapping](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3838-weighted-word-mapping) |
 | [3903-smallest-stable-index-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3904-smallest-stable-index-ii) |
