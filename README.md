@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3618-split-array-by-prime-indices](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3618-split-array-by-prime-indices) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3765-complete-prime-number](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3765-complete-prime-number) |
 | [3783-mirror-distance-of-an-integer](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3783-mirror-distance-of-an-integer) |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3388-count-beautiful-splits-in-an-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3388-count-beautiful-splits-in-an-array) |
 | [3620-network-recovery-pathways](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3620-network-recovery-pathways) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Sliding Window
 |  |
@@ -730,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3765-complete-prime-number](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3765-complete-prime-number) |
 ## String Matching
 |  |
