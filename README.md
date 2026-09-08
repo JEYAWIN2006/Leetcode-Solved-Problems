@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2206-divide-array-into-equal-pairs](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2540-minimum-common-value](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2540-minimum-common-value) |
 | [2549-count-distinct-numbers-on-board](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2549-count-distinct-numbers-on-board) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1980-find-unique-binary-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2833-furthest-point-from-origin](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2833-furthest-point-from-origin) |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2029-stone-game-ix](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2029-stone-game-ix) |
 | [2206-divide-array-into-equal-pairs](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2206-divide-array-into-equal-pairs) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2833-furthest-point-from-origin](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2833-furthest-point-from-origin) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
