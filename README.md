@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3765-complete-prime-number](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3765-complete-prime-number) |
 | [3783-mirror-distance-of-an-integer](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3783-mirror-distance-of-an-integer) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3857-minimum-cost-to-split-into-ones) |
+| [3870-count-commas-in-range](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3870-count-commas-in-range) |
 | [3894-traffic-signal-color](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3894-traffic-signal-color) |
 | [3945-digit-frequency-score](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
