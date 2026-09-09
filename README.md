@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3618-split-array-by-prime-indices](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3618-split-array-by-prime-indices) |
 | [3620-network-recovery-pathways](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3620-network-recovery-pathways) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3643-flip-square-submatrix-vertically) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2592-maximize-greatness-of-an-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2592-maximize-greatness-of-an-array) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3643-flip-square-submatrix-vertically) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Binary Search
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-network-recovery-pathways](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3620-network-recovery-pathways) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Geometry
 |  |
 | ------- |
@@ -498,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3536-maximum-product-of-two-digits) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3731-find-missing-elements](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Counting
@@ -604,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3689-maximum-total-subarray-value-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
