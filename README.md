@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-smallest-divisible-digit-product-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3516-find-closest-person](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3536-maximum-product-of-two-digits) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3618-split-array-by-prime-indices](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3618-split-array-by-prime-indices) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -841,6 +842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3310-remove-methods-from-project) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Least Common Multiple
 |  |
 | ------- |
@@ -897,6 +899,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
 |  |
 | ------- |
