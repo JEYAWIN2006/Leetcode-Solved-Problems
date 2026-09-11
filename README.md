@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3452-sum-of-good-numbers](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3452-sum-of-good-numbers) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3483-unique-3-digit-even-numbers) |
+| [3488-closest-equal-element-queries](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3488-closest-equal-element-queries) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3618-split-array-by-prime-indices](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3618-split-array-by-prime-indices) |
 | [3620-network-recovery-pathways](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3620-network-recovery-pathways) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3483-unique-3-digit-even-numbers) |
+| [3488-closest-equal-element-queries](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3488-closest-equal-element-queries) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3488-closest-equal-element-queries](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-network-recovery-pathways](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
