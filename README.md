@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1288-remove-covered-intervals) |
+| [1306-jump-game-iii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1306-jump-game-iii) |
 | [1314-matrix-block-sum](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1314-matrix-block-sum) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1386-cinema-seat-allocation) |
@@ -820,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1306-jump-game-iii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1306-jump-game-iii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3310-remove-methods-from-project) |
@@ -850,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1306-jump-game-iii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1306-jump-game-iii) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3310-remove-methods-from-project) |
