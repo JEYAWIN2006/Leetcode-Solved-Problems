@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3488-closest-equal-element-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3618-split-array-by-prime-indices](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3618-split-array-by-prime-indices) |
 | [3620-network-recovery-pathways](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3620-network-recovery-pathways) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3488-closest-equal-element-queries) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3488-closest-equal-element-queries](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3488-closest-equal-element-queries) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-network-recovery-pathways](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -726,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Graph Theory
 |  |
@@ -733,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-find-center-of-star-graph](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1791-find-center-of-star-graph) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3310-remove-methods-from-project) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-network-recovery-pathways](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3620-network-recovery-pathways) |
 ## Minimum Spanning Tree
