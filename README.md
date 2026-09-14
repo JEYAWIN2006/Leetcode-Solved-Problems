@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
@@ -632,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3620-network-recovery-pathways](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3620-network-recovery-pathways) |
 | [3660-jump-game-ix](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3660-jump-game-ix) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Sliding Window
@@ -858,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3643-flip-square-submatrix-vertically](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3643-flip-square-submatrix-vertically) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Binary Indexed Tree
 |  |
 | ------- |
