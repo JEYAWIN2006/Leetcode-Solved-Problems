@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3614-process-string-with-special-operations-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3614-process-string-with-special-operations-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3838-weighted-word-mapping](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3838-weighted-word-mapping) |
 | [3894-traffic-signal-color](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3894-traffic-signal-color) |
 ## Math
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3765-complete-prime-number](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3765-complete-prime-number) |
 | [3783-mirror-distance-of-an-integer](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3783-mirror-distance-of-an-integer) |
@@ -735,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3903-smallest-stable-index-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3904-smallest-stable-index-ii) |
 ## Union-Find
