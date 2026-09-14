@@ -752,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [2685-count-the-number-of-complete-components](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -760,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1791-find-center-of-star-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -900,6 +902,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2685-count-the-number-of-complete-components](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3310-remove-methods-from-project) |
@@ -936,6 +939,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2685-count-the-number-of-complete-components](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3310-remove-methods-from-project) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Least Common Multiple
