@@ -407,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0061-rotate-list](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0151-reverse-words-in-a-string) |
@@ -821,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0148-sort-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
