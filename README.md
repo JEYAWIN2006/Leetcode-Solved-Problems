@@ -658,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0047-permutations-ii) |
+| [0077-combinations](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0077-combinations) |
 | [0089-gray-code](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0089-gray-code) |
 | [0357-count-numbers-with-unique-digits](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0357-count-numbers-with-unique-digits) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
