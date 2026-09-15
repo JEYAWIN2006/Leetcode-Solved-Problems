@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3904-smallest-stable-index-ii) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3643-flip-square-submatrix-vertically) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Binary Search
 |  |
 | ------- |
