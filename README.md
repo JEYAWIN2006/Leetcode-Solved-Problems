@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1331-rank-transform-of-an-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1331-rank-transform-of-an-array) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1386-cinema-seat-allocation](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1154-day-of-the-year](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1154-day-of-the-year) |
 | [1189-maximum-number-of-balloons](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1189-maximum-number-of-balloons) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -528,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1009-complement-of-base-10-integer](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1009-complement-of-base-10-integer) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1386-cinema-seat-allocation](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1720-decode-xored-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1720-decode-xored-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2206-divide-array-into-equal-pairs) |
@@ -744,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-random-pick-with-weight](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0528-random-pick-with-weight) |
 | [1140-stone-game-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1140-stone-game-ii) |
 | [1314-matrix-block-sum](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1314-matrix-block-sum) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1480-running-sum-of-1d-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1674-minimum-moves-to-make-array-complementary) |
