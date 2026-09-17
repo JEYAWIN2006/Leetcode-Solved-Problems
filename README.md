@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3388-count-beautiful-splits-in-an-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3388-count-beautiful-splits-in-an-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3612-process-string-with-special-operations-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3614-process-string-with-special-operations-ii) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
@@ -783,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2615-sum-of-distances) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
