@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2126-destroying-asteroids](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1980-find-unique-binary-string](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1980-find-unique-binary-string) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2206-divide-array-into-equal-pairs](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1980-find-unique-binary-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -808,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0743-network-delay-time) |
 | [1791-find-center-of-star-graph](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1791-find-center-of-star-graph) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2685-count-the-number-of-complete-components](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3310-remove-methods-from-project) |
@@ -972,6 +976,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [3620-network-recovery-pathways](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3620-network-recovery-pathways) |
 ## Minimax
 |  |
@@ -1070,4 +1075,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0743-network-delay-time) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->
