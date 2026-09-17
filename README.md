@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1563-stone-game-v) |
 | [1572-matrix-diagonal-sum](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1672-richest-customer-wealth](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1672-richest-customer-wealth) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-nth-magical-number](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0878-nth-magical-number) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -585,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1833-maximum-ice-cream-bars](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
