@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3330-find-the-original-typed-string-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3330-find-the-original-typed-string-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3456-find-special-substring-of-length-k](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3456-find-special-substring-of-length-k) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3612-process-string-with-special-operations-i) |
