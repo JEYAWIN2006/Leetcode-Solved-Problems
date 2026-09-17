@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1395-count-number-of-teams](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1395-count-number-of-teams) |
 | [1406-stone-game-iii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1476-subrectangle-queries](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1476-subrectangle-queries) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -814,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0303-range-sum-query-immutable) |
+| [1476-subrectangle-queries](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1476-subrectangle-queries) |
 | [1622-fancy-sequence](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1622-fancy-sequence) |
 ## Segment Tree
 |  |
@@ -880,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1314-matrix-block-sum](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1314-matrix-block-sum) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1476-subrectangle-queries](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1476-subrectangle-queries) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1672-richest-customer-wealth) |
