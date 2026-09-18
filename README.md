@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2206-divide-array-into-equal-pairs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2364-count-number-of-bad-pairs](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2364-count-number-of-bad-pairs) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2540-minimum-common-value](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2540-minimum-common-value) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2364-count-number-of-bad-pairs](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2364-count-number-of-bad-pairs) |
 | [2540-minimum-common-value](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2540-minimum-common-value) |
 | [2549-count-distinct-numbers-on-board](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2549-count-distinct-numbers-on-board) |
 | [2615-sum-of-distances](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2615-sum-of-distances) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2235-add-two-integers) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2310-sum-of-numbers-with-units-digit-k) |
+| [2364-count-number-of-bad-pairs](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2364-count-number-of-bad-pairs) |
 | [2413-smallest-even-multiple](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2427-number-of-common-factors) |
 | [2544-alternating-digit-sum](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2544-alternating-digit-sum) |
@@ -632,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2029-stone-game-ix) |
 | [2206-divide-array-into-equal-pairs](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2206-divide-array-into-equal-pairs) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2364-count-number-of-bad-pairs](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2364-count-number-of-bad-pairs) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2833-furthest-point-from-origin](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2833-furthest-point-from-origin) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
