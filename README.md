@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3614-process-string-with-special-operations-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3614-process-string-with-special-operations-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3838-weighted-word-mapping](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3838-weighted-word-mapping) |
 | [3894-traffic-signal-color](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3894-traffic-signal-color) |
@@ -647,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3663-find-the-least-frequent-digit](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3663-find-the-least-frequent-digit) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -784,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Prefix Sum
 |  |
 | ------- |
