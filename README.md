@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0496-next-greater-element-i) |
 | [0528-random-pick-with-weight](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0528-random-pick-with-weight) |
 | [0561-array-partition](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0561-array-partition) |
+| [0665-non-decreasing-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0665-non-decreasing-array) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0717-1-bit-and-2-bit-characters) |
