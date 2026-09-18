@@ -378,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0738-monotone-increasing-digits](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0738-monotone-increasing-digits) |
 | [0788-rotated-digits](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0788-rotated-digits) |
 | [0836-rectangle-overlap](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0836-rectangle-overlap) |
+| [0858-mirror-reflection](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0858-mirror-reflection) |
 | [0869-reordered-power-of-2](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0869-reordered-power-of-2) |
 | [0877-stone-game](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0877-stone-game) |
 | [0878-nth-magical-number](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0878-nth-magical-number) |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0223-rectangle-area](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0836-rectangle-overlap) |
+| [0858-mirror-reflection](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0858-mirror-reflection) |
 ## Brainteaser
 |  |
 | ------- |
@@ -724,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0204-count-primes) |
+| [0858-mirror-reflection](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0858-mirror-reflection) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2427-number-of-common-factors) |
@@ -1032,6 +1035,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Least Common Multiple
 |  |
 | ------- |
+| [0858-mirror-reflection](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0858-mirror-reflection) |
 | [0878-nth-magical-number](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0878-nth-magical-number) |
 ## Inclusion-Exclusion Principle
 |  |
@@ -1111,4 +1115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2261-k-divisible-elements-subarrays](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2261-k-divisible-elements-subarrays) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0858-mirror-reflection](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0858-mirror-reflection) |
 <!---LeetCode Topics End-->
