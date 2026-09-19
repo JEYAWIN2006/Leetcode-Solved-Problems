@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0989-add-to-array-form-of-integer) |
+| [1048-longest-string-chain](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1048-longest-string-chain) |
 | [1122-relative-sort-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1122-relative-sort-array) |
 | [1140-stone-game-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1140-stone-game-ii) |
 | [1162-as-far-from-land-as-possible](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1162-as-far-from-land-as-possible) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-reordered-power-of-2](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0869-reordered-power-of-2) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
+| [1048-longest-string-chain](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1048-longest-string-chain) |
 | [1122-relative-sort-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
+| [1048-longest-string-chain](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1048-longest-string-chain) |
 | [1078-occurrences-after-bigram](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1078-occurrences-after-bigram) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1154-day-of-the-year](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1154-day-of-the-year) |
@@ -460,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0696-count-binary-substrings) |
 | [0845-longest-mountain-in-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0845-longest-mountain-in-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1048-longest-string-chain](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1048-longest-string-chain) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1861-rotating-the-box) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -608,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-reordered-power-of-2](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0869-reordered-power-of-2) |
 | [0912-sort-an-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1048-longest-string-chain](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1048-longest-string-chain) |
 | [1122-relative-sort-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1122-relative-sort-array) |
 | [1288-remove-covered-intervals](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1331-rank-transform-of-an-array) |
@@ -676,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0940-distinct-subsequences-ii) |
+| [1048-longest-string-chain](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1048-longest-string-chain) |
 | [1140-stone-game-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1140-stone-game-ii) |
 | [1162-as-far-from-land-as-possible](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1162-as-far-from-land-as-possible) |
 | [1227-airplane-seat-assignment-probability](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1227-airplane-seat-assignment-probability) |
