@@ -389,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1154-day-of-the-year](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1154-day-of-the-year) |
 | [1227-airplane-seat-assignment-probability](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1227-airplane-seat-assignment-probability) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1406-stone-game-iii) |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1510-stone-game-iv](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1510-stone-game-iv) |
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0836-rectangle-overlap) |
 | [0858-mirror-reflection](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0858-mirror-reflection) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Brainteaser
 |  |
 | ------- |
