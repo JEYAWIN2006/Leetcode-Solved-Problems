@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3488-closest-equal-element-queries](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3488-closest-equal-element-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3525-find-x-value-of-array-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3525-find-x-value-of-array-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3552-grid-teleportation-traversal](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3552-grid-teleportation-traversal) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3516-find-closest-person](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3516-find-closest-person) |
+| [3525-find-x-value-of-array-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3525-find-x-value-of-array-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3618-split-array-by-prime-indices](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3618-split-array-by-prime-indices) |
@@ -880,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1395-count-number-of-teams](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1395-count-number-of-teams) |
 | [1622-fancy-sequence](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1622-fancy-sequence) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3525-find-x-value-of-array-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3525-find-x-value-of-array-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
