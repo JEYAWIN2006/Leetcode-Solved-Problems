@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1672-richest-customer-wealth) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1720-decode-xored-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1720-decode-xored-array) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1980-find-unique-binary-string](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1980-find-unique-binary-string) |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -717,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1871-jump-game-vii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -817,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1480-running-sum-of-1d-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1871-jump-game-vii) |
