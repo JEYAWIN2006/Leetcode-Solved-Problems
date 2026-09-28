@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1592-rearrange-spaces-between-words](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1592-rearrange-spaces-between-words) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -811,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Prefix Sum
@@ -1086,6 +1088,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0678-valid-parenthesis-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Ordered Set
 |  |
 | ------- |
