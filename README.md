@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0496-next-greater-element-i) |
 | [0528-random-pick-with-weight](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0528-random-pick-with-weight) |
 | [0561-array-partition](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0561-array-partition) |
+| [0566-reshape-the-matrix](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0566-reshape-the-matrix) |
 | [0665-non-decreasing-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0665-non-decreasing-array) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -555,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0415-add-strings) |
 | [0537-complex-number-multiplication](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0537-complex-number-multiplication) |
+| [0566-reshape-the-matrix](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0657-robot-return-to-origin) |
 | [0867-transpose-matrix](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1260-shift-2d-grid) |
@@ -952,6 +954,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0289-game-of-life](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0289-game-of-life) |
+| [0566-reshape-the-matrix](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0566-reshape-the-matrix) |
 | [0794-valid-tic-tac-toe-state](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0794-valid-tic-tac-toe-state) |
 | [0835-image-overlap](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0867-transpose-matrix) |
