@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0496-next-greater-element-i) |
+| [0652-find-duplicate-subtrees](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0652-find-duplicate-subtrees) |
 | [0869-reordered-power-of-2](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0869-reordered-power-of-2) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
@@ -1062,6 +1063,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0226-invert-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0652-find-duplicate-subtrees) |
 | [0743-network-delay-time](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0743-network-delay-time) |
 | [1306-jump-game-iii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -1133,6 +1135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0226-invert-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0652-find-duplicate-subtrees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
@@ -1140,6 +1143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0226-invert-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0652-find-duplicate-subtrees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Dijkstra's Algorithm
 |  |
