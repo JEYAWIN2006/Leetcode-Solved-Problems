@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1914-cyclically-rotating-a-grid) |
+| [1937-maximum-number-of-points-with-cost](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1937-maximum-number-of-points-with-cost) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1980-find-unique-binary-string) |
@@ -714,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1871-jump-game-vii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1937-maximum-number-of-points-with-cost](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1937-maximum-number-of-points-with-cost) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -979,6 +981,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1672-richest-customer-wealth) |
 | [1861-rotating-the-box](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1914-cyclically-rotating-a-grid) |
+| [1937-maximum-number-of-points-with-cost](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1937-maximum-number-of-points-with-cost) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
