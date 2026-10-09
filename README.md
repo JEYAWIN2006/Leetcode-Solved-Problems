@@ -822,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0155-min-stack](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0224-basic-calculator) |
 | [0496-next-greater-element-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0678-valid-parenthesis-string) |
@@ -900,6 +901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0303-range-sum-query-immutable) |
 | [1476-subrectangle-queries](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1476-subrectangle-queries) |
 | [1622-fancy-sequence](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1622-fancy-sequence) |
