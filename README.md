@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0896-monotonic-array) |
+| [0910-smallest-range-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0910-smallest-range-ii) |
 | [0912-sort-an-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0989-add-to-array-form-of-integer) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-reordered-power-of-2](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0869-reordered-power-of-2) |
 | [0877-stone-game](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0877-stone-game) |
 | [0878-nth-magical-number](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0878-nth-magical-number) |
+| [0910-smallest-range-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0910-smallest-range-ii) |
 | [0989-add-to-array-form-of-integer](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0989-add-to-array-form-of-integer) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1140-stone-game-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1140-stone-game-ii) |
@@ -634,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0561-array-partition) |
 | [0869-reordered-power-of-2](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0869-reordered-power-of-2) |
+| [0910-smallest-range-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0910-smallest-range-ii) |
 | [0912-sort-an-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1048-longest-string-chain) |
@@ -785,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0738-monotone-increasing-digits](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0738-monotone-increasing-digits) |
 | [0860-lemonade-change](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0860-lemonade-change) |
+| [0910-smallest-range-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0910-smallest-range-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1386-cinema-seat-allocation) |
