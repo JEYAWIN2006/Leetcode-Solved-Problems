@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -881,6 +883,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2685-count-the-number-of-complete-components) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -1048,6 +1051,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0743-network-delay-time) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
