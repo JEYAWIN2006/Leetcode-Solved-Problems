@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3127-make-a-square-with-the-same-color](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3127-make-a-square-with-the-same-color) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
@@ -997,6 +998,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3127-make-a-square-with-the-same-color](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3127-make-a-square-with-the-same-color) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3552-grid-teleportation-traversal](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3552-grid-teleportation-traversal) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -1019,6 +1021,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2427-number-of-common-factors) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3127-make-a-square-with-the-same-color](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3127-make-a-square-with-the-same-color) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3499-maximize-active-section-with-trade-i) |
