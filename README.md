@@ -884,6 +884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0684-redundant-connection) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -896,6 +897,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0743-network-delay-time) |
 | [1791-find-center-of-star-graph](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1791-find-center-of-star-graph) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
@@ -1056,6 +1058,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0226-invert-binary-tree) |
+| [0684-redundant-connection](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0743-network-delay-time) |
 | [1162-as-far-from-land-as-possible](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1162-as-far-from-land-as-possible) |
 | [1306-jump-game-iii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1306-jump-game-iii) |
@@ -1102,6 +1105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0226-invert-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0652-find-duplicate-subtrees) |
+| [0684-redundant-connection](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0743-network-delay-time) |
 | [0872-leaf-similar-trees](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0872-leaf-similar-trees) |
 | [1306-jump-game-iii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1306-jump-game-iii) |
