@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0896-monotonic-array) |
 | [0910-smallest-range-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0910-smallest-range-ii) |
 | [0912-sort-an-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0912-sort-an-array) |
+| [0939-minimum-area-rectangle](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0939-minimum-area-rectangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0989-add-to-array-form-of-integer) |
 | [1048-longest-string-chain](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1048-longest-string-chain) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0652-find-duplicate-subtrees) |
 | [0706-design-hashmap](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0706-design-hashmap) |
 | [0869-reordered-power-of-2](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0869-reordered-power-of-2) |
+| [0939-minimum-area-rectangle](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0939-minimum-area-rectangle) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1048-longest-string-chain](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1048-longest-string-chain) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0877-stone-game) |
 | [0878-nth-magical-number](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0878-nth-magical-number) |
 | [0910-smallest-range-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0910-smallest-range-ii) |
+| [0939-minimum-area-rectangle](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0939-minimum-area-rectangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0989-add-to-array-form-of-integer) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1140-stone-game-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1140-stone-game-ii) |
@@ -551,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0836-rectangle-overlap) |
 | [0858-mirror-reflection](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0858-mirror-reflection) |
+| [0939-minimum-area-rectangle](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0939-minimum-area-rectangle) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Brainteaser
 |  |
@@ -650,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-reordered-power-of-2](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0869-reordered-power-of-2) |
 | [0910-smallest-range-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0910-smallest-range-ii) |
 | [0912-sort-an-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0912-sort-an-array) |
+| [0939-minimum-area-rectangle](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0939-minimum-area-rectangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1048-longest-string-chain) |
 | [1122-relative-sort-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1122-relative-sort-array) |
