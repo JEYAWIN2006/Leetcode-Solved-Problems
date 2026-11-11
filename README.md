@@ -706,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0097-interleaving-string) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0264-ugly-number-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0264-ugly-number-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0357-count-numbers-with-unique-digits) |
 | [0396-rotate-function](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0396-rotate-function) |
@@ -1097,6 +1098,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0226-invert-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0652-find-duplicate-subtrees) |
 | [0743-network-delay-time](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0743-network-delay-time) |
@@ -1171,6 +1173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0226-invert-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0652-find-duplicate-subtrees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -1179,6 +1182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0226-invert-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0652-find-duplicate-subtrees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -1202,4 +1206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0858-mirror-reflection](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0858-mirror-reflection) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
