@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0665-non-decreasing-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0665-non-decreasing-array) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0706-design-hashmap](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0706-design-hashmap) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0794-valid-tic-tac-toe-state](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0794-valid-tic-tac-toe-state) |
 | [0835-image-overlap](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0835-image-overlap) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0496-next-greater-element-i) |
 | [0652-find-duplicate-subtrees](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0652-find-duplicate-subtrees) |
+| [0706-design-hashmap](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0706-design-hashmap) |
 | [0869-reordered-power-of-2](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0869-reordered-power-of-2) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
@@ -931,6 +933,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0303-range-sum-query-immutable) |
+| [0706-design-hashmap](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0706-design-hashmap) |
 | [1476-subrectangle-queries](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1476-subrectangle-queries) |
 | [1622-fancy-sequence](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1622-fancy-sequence) |
 ## Segment Tree
@@ -971,6 +974,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0148-sort-list) |
+| [0706-design-hashmap](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0706-design-hashmap) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
@@ -1210,6 +1214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0706-design-hashmap](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0706-design-hashmap) |
 | [2261-k-divisible-elements-subarrays](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2261-k-divisible-elements-subarrays) |
 ## Greatest Common Divisor
 |  |
