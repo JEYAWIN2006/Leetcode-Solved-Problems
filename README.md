@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2798-number-of-employees-who-met-the-target](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2811-check-if-it-is-possible-to-split-array](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2811-check-if-it-is-possible-to-split-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -623,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2206-divide-array-into-equal-pairs) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
