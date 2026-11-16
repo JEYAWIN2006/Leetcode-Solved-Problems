@@ -393,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0048-rotate-image) |
 | [0089-gray-code](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0089-gray-code) |
@@ -987,6 +988,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0148-sort-list) |
 | [0706-design-hashmap](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0706-design-hashmap) |
@@ -994,6 +996,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0002-add-two-numbers) |
 | [0224-basic-calculator](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0224-basic-calculator) |
 | [0486-predict-the-winner](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/0509-fibonacci-number) |
