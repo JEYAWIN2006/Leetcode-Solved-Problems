@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2206-divide-array-into-equal-pairs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2261-k-divisible-elements-subarrays](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2261-k-divisible-elements-subarrays) |
 | [2364-count-number-of-bad-pairs](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2364-count-number-of-bad-pairs) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2433-find-the-original-array-of-prefix-xor) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2201-count-artifacts-that-can-be-extracted](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2201-count-artifacts-that-can-be-extracted) |
 | [2206-divide-array-into-equal-pairs](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2261-k-divisible-elements-subarrays](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2261-k-divisible-elements-subarrays) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2364-count-number-of-bad-pairs](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2364-count-number-of-bad-pairs) |
@@ -785,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1871-jump-game-vii](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/JEYAWIN2006/Leetcode-Solved-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
